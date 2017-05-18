@@ -28,8 +28,7 @@ The classes and objects participating in this pattern are:
 <br><br>
 
 
-##参与
-这个模式参与的 Class 和 Object:
+## 这个模式参与的 Class 和 Object:
 
 ###Command (命令)
 * 声明 Execute 的 interface
