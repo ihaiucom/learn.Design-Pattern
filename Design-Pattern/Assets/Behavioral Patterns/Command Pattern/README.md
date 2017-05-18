@@ -44,4 +44,4 @@ The classes and objects participating in this pattern are:
 * 请求命令执行请求
 
 ###Receiver (接收)
-* 执行命令行为的描述.
+* 执行命令的具体行为.
