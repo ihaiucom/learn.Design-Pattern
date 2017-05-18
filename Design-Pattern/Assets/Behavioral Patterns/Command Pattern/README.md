@@ -25,7 +25,7 @@ The classes and objects participating in this pattern are:
 * knows how to perform the operations associated with carrying out the request.
 
 
-
+<br><br>
 
 
 ##参与
