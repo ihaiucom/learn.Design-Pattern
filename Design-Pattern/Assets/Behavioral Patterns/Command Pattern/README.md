@@ -26,3 +26,23 @@ The classes and objects participating in this pattern are:
 
 
 
+
+
+##参与
+这个模式参与的 Class 和 Object:
+
+###Command (命令)
+* 声明 Execute 的 interface
+
+###ConcreteCommand (具体命令)
+* 定义绑定操作的接收对象
+* 继承Command实现 Execute 方法
+
+###Client （客户端）
+* 创建具体的命令对象并设置它的接收器
+
+###Invoker （调用）
+* 请求命令执行请求
+
+###Receiver (接收)
+* 执行命令行为的描述.
